@@ -1,9 +1,7 @@
-<h1 align="center">Hello 👋, human</h1>
-<h2 align="center">I'm <strong>Peshimam Mohammed Junaid</strong></h2>
+# Hello 👋, human  
+## I'm **Peshimam Mohammed Junaid**
 
-<p align="center">
 Tech enthusiast who chats with AI more than humans. Writing code, designing interfaces, solving real-world problems, and making the digital world a little friendlier.
-</p>
 
 ---
 
