@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm <span style="color:#000000"><strong>Peshimam Mohammed Junaid</strong></span></h1>
+<h1 align="center">Hello world! 👋, I'm <img src="https://img.shields.io/badge/Peshimam_Mohammed_Junaid-grey?style=for-the-badge&logo=github" /></h1>
 <h3 align="center">Tech enthusiast who chats with AI more than humans. Writing code, designing interfaces, solving real-world problems, and making the digital world a little friendlier.</h3>
 
 - 🌱 Currently learning AI and Prompt Engineering
