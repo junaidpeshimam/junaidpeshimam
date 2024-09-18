@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 human, I'm Peshimam Mohammed Junaid</h1>
+<h1 align="center">Hello👋, human Peshimam Mohammed Junaid</h1>
 <h3 align="center">Tech enthusiast who chats with AI more than humans. Writing code, designing interfaces, solving real-world problems, and making the digital world a little friendlier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidpeshimam&label=Profile%20views&color=40ff3d&style=plastic" alt="junaidpeshimam" /> </p>
@@ -7,6 +7,8 @@
 
 - 📫 Reach me through **junaidpeshimam@gmail.com**
 
+- 📄 View my resume here [📄 View my resume here](📄 View my resume here)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/junaidpeshimam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaidpeshimam" height="30" width="40" /></a>
@@ -14,7 +16,6 @@
 <a href="https://instagram.com/aahiljunaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aahiljunaid" height="30" width="40" /></a>
 <a href="https://www.behance.net/junaidpeshimam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="junaidpeshimam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/junaidpeshimam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="junaidpeshimam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/junaidpeshimam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="junaidpeshimam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/junaidpeshimam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="junaidpeshimam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/junaidpeshimam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/junaidpeshimam/" height="30" width="40" /></a>
 </p>
