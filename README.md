@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋, human <strong>Peshimam Mohammed Junaid</strong></h1>
+# Hello 👋, human  
+### I'm **Peshimam Mohammed Junaid**  
 <h3 align="center">Tech enthusiast who chats with AI more than humans. Writing code, designing interfaces, solving real-world problems, and making the digital world a little friendlier.</h3>
 
 - 🌱 Currently learning AI and Prompt Engineering
