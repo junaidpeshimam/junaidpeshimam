@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, human Peshimam Mohammed Junaid</h1>
+<h1 align="center">Hello👋 human, I'm Peshimam Mohammed Junaid</h1>
 <h3 align="center">Tech enthusiast who chats with AI more than humans. Writing code, designing interfaces, solving real-world problems, and making the digital world a little friendlier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidpeshimam&label=Profile%20views&color=40ff3d&style=plastic" alt="junaidpeshimam" /> </p>
