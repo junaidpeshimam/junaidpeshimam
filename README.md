@@ -1,4 +1,4 @@
-## Hello 👋 human, I'm **Mohammed Junaid**
+## Hello 👋 human,               I'm **Mohammed Junaid**
 
 Tech enthusiast who chats with AI more than humans. Writing code, designing interfaces, solving real-world problems, and making the digital world a little friendlier.
 
