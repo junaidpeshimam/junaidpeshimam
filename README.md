@@ -21,7 +21,7 @@ Tech enthusiast who chats with AI more than humans. Writing code, designing inte
 - Email: **junaidpeshimam@gmail.com**
 
 ### 📄 **View my resume**
-[Click here to view my resume](https://1drv.ms/b/s!ArzD7wqL-68clF5vyWVBYFPqP1eN?e=EKHAE6)
+[Click here to view my resume](https://1drv.ms/b/c/39326eacdd4f0cac/ERJxRzL-Pl1EmJZoIbYHU3cBZr4HzAdh51j2S_TWMmrikA?e=1jI7Ww)
 
 ---
 
